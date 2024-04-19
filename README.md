@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuliia
 =======================
 
-I'm a Frontend Software Engineer with a background in Architectural Engineering. I love making websites look and work great! I really enjoy coding and always aim to create cool stuff. Let's connect and build awesome things together!
+I'm a Software Engineer with a background in Architectural Engineering. I love making websites look and work great! I really enjoy coding and always aim to create cool stuff. Let's connect and build awesome things together!
 
 * You can browse my pet projects at Pinned section below
 
